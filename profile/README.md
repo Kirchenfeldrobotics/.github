@@ -1,2 +1,2 @@
 # Kirchenfeldrobotics
-Small robotics club based in Swizterland Bern
+Elite Robotics Club founded in Bern, Switzerland.
