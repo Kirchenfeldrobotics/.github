@@ -12,10 +12,10 @@ We founded Kirchenfeldrobotics 2024, back when we participated the first time in
 - NasaSpaceAppsChallenge Lucerne
 
 **What we've built so far:**
-- [Farmatic](kirchenfeldrobotics.ch/projects/farmatic) - A fully automated Vertical Farm which can be assembled in about 30 minutes -> [Project Website](farmatic.kirchenfeldrobotics.ch)
-- [Mealcam](kirchenfeldrobotics.ch/projects/mealcam) - Scan your Fridge and get menu recommendations based on what you have - more efficiency - less food waste
+- [Farmatic](https://kirchenfeldrobotics.ch/projects/farmatic) - A fully automated Vertical Farm which can be assembled in about 30 minutes -> [Project Website](HTTPS://farmatic.kirchenfeldrobotics.ch)
+- [Mealcam](https://kirchenfeldrobotics.ch/projects/mealcam) - Scan your Fridge and get menu recommendations based on what you have - more efficiency - less food waste
 
-Feel free to reach out if something caught your eye
+Feel free to reach out if something caught your eye!
 
   Stay tuned for what's next;) 
   
